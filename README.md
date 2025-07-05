@@ -1,1 +1,1 @@
-# n8n_temp
+# N8N_Templates
